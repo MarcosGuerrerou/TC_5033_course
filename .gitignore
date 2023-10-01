@@ -3,3 +3,4 @@ mnist_raw
 *.zip
 *.csv
 *.pyc
+.DS_Store
