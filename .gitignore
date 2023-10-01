@@ -1,2 +1,5 @@
 venv
 mnist_raw
+*.zip
+*.csv
+*.pyc
